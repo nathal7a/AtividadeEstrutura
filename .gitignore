@@ -1,0 +1,3 @@
+*.exe
+sensor_data/
+testes/test_data.txt
